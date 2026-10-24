@@ -1,8 +1,8 @@
-package id.ac.polbeng.asmira.threadexample2
+package id.ac.polbeng.eko.threadexample2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import id.ac.polbeng.asmira.threadexample2.databinding.ActivityMainBinding
+import id.ac.polbeng.eko.threadexample2.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {

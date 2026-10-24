@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadexample2;
+package id.ac.polbeng.eko.threadexample2;
 import android.util.Log
 
 class ExampleThread(private var seconds: Int) : Thread() {

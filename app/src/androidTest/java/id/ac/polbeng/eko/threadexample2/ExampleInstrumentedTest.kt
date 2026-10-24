@@ -1,4 +1,4 @@
-package id.ac.polbeng.asmira.threadexample2
+package id.ac.polbeng.eko.threadexample2
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
